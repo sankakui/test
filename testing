@@ -1,0 +1,17 @@
+{
+  "title": "<Kogarete Kogashite>",
+  "description": "<Yuuji's childhood friend, Souichi is an office worker who is extremely busy with work. After meeting again, Yuuji begins to feed Souichi, healing his friend in the process. As these nights come by more and more often, the love that Yuuji has been keeping asleep within him slowly starts to simmer and reawaken.>",
+  "artist": "<Noji>",
+  "author": "<Noji>",
+  "cover": "<https://i.imgur.com/wYuQTVq.jpeg>",
+  "chapters": {
+    "<1>": {
+      "title": "<test>",
+      "volume": "<1>",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/<pjRBNZU>/"
+      },
+      "last_updated": "1616368746"
+    },
+  }
+}
